@@ -1,0 +1,11 @@
+* 패키지에 axios 추가 설치
+ - npm install styled-components axios react-router-dom
+  => npm install styled-components
+  => npm install react-router-dom
+  => npm install axios 
+
+* 헤더 타이틀 이름 변경
+ - npm install react-helmet
+
+*
+ - npm install prop-types
